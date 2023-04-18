@@ -1,0 +1,6 @@
+{
+  "base_url": "https://www.saucedemo.com/",
+  "stand_user": "standard_user",
+  "lock_user": "locked_out_user",
+  "password": "secret_sauce"
+}
